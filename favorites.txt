@@ -1,3 +1,6 @@
 breakfast
 dinner
 supper
+star wars
+lord of the rings
+harry potter
